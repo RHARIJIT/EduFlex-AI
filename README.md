@@ -1,10 +1,3 @@
-Thanks for sharing both your **code for the EduFlex AI assistant** and the **MindMate project example**. Based on your code and structure, here's your **modified and improved `README.md`** for **EduFlex AI**, matching the professional tone and design style used in the MindMate example.
-
----
-
-### ✅ Updated `README.md` for **EduFlex AI**
-
-````markdown
 # 🎓 EduFlex AI
 
 **EduFlex AI** is a responsible, AI-powered chatbot designed to assist in building **personalized learning platforms** for underprivileged students. It aligns with **Sustainable Development Goal 4 – Quality Education**, by supporting inclusive and adaptive education powered by artificial intelligence.
